@@ -37,5 +37,3 @@ It gets the **name, specifications, price, and link** to the page of each laptop
     “price": “1299€”
   }
 ]
-
-Translated with DeepL.com (free version)
